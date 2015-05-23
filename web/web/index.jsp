@@ -5,9 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link href="style/template-base-level-2.css" rel="stylesheet" media="screen">
-<link rel="stylesheet" type="text/css" href="style/template-subjectnav.css">
-<link rel="stylesheet" type="text/css" href="user.css">
-<link REL=StyleSheet HREF="formatStyles.css" TYPE="text/css" MEDIA=screen,print>
+<link rel="stylesheet" type="text/style" href="style/template-subjectnav.css">
+<link rel="stylesheet" type="text/style" href="user.css">
+<link REL=StyleSheet HREF="formatStyles.css" TYPE="text/style" MEDIA=screen,print>
 <script language="JavaScript" src="gen_validatorv31.js" type="text/javascript"></script>
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script>

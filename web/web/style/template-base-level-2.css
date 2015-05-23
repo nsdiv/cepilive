@@ -1,0 +1,18 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+/* import style sheets used in Commonspot base template */
+@import "../style/template-base.css";
+@import "../style/template-html.css";
+@import "../style/template-base-directorynav.css";
+@import "../style/template-class.css";
+
+body {
+	background: url("../images/base-level-3-bg.jpg") repeat-x;
+	}
+	
+#masthead {
+	height:88px;
+	}
+	
+#search {
+	top: 38px;
+	}

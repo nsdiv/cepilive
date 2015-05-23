@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Spring MVC-4.1.6.RELEASE">
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-webmvc-portlet-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-webmvc-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-websocket-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-web-4.1.6.RELEASE.jar" />
+  </library>
+  <library name="Spring Data JPA-1.3.3">
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-data-jpa-1.3.3.jar" />
+  </library>
+  <library name="Spring-4.1.6.RELEASE">
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-instrument-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-instrument-tomcat-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-aspects-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-context-support-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-expression-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-jms-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-aop-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-messaging-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-oxm-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-jdbc-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-orm-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/aopalliance-1.0.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-beans-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-tx-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/commons-logging-1.1.3.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-core-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-context-4.1.6.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-test-4.1.6.RELEASE.jar" />
+  </library>
+  <library name="Spring Integration-4.0.3">
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-feed-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-event-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-groovy-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-gemfire-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-ftp-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-amqp-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-file-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-http-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-jdbc-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-jmx-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-jpa-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-jms-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-ip-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-mail-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-core-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-mongodb-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-mqtt-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-rmi-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-security-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-redis-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-scripting-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-sftp-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-stream-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-syslog-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-test-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-twitter-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-xmpp-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-ws-4.0.3.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-integration-xml-4.0.3.RELEASE.jar" />
+  </library>
+  <library name="Spring Security-3.2.5">
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-cas-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-aspects-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-crypto-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-openid-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-ldap-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-acl-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-remoting-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-taglibs-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-config-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-core-3.2.5.RELEASE.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/spring-security-web-3.2.5.RELEASE.jar" />
+  </library>
+  <library name="Hibernate 4.2.2-4.2.2">
+    <archive path="/Users/ndivadkar/cepi/web/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/jboss-logging-3.1.0.GA.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/dom4j-1.6.1.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/hibernate-commons-annotations-4.0.2.Final.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/antlr-2.7.7.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/javassist-3.15.0-GA.jar" />
+    <archive path="/Users/ndivadkar/cepi/web/lib/hibernate-core-4.2.2.Final.jar" />
+  </library>
+  <library name="JPA 2.0-2.0">
+    <archive path="/Users/ndivadkar/cepi/web/lib/javax.persistence.jar" />
+  </library>
+</eclipse-userlibraries>
+

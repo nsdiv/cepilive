@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+        <property name="annotatedClasses">
+            <list>
+                <value>com.cepi.domain.AdministratorTEntity</value>
+                <value>com.cepi.domain.CeActivityListTEntity</value>
+                <value>com.cepi.domain.CeActivityTEntity</value>
+                <value>com.cepi.domain.CeApplicationTEntity</value>
+                <value>com.cepi.domain.CepTEntity</value>
+                <value>com.cepi.domain.ContactCorrespondenceTEntity</value>
+                <value>com.cepi.domain.ContactSourceTEntity</value>
+                <value>com.cepi.domain.ContactTEntity</value>
+                <value>com.cepi.domain.ContactTypeTEntity</value>
+                <value>com.cepi.domain.ExaminationLocationTEntity</value>
+                <value>com.cepi.domain.ExaminationTEntity</value>
+                <value>com.cepi.domain.IndividualTEntity</value>
+                <value>com.cepi.domain.IndividualWorkInfoTEntity</value>
+                <value>com.cepi.domain.PaymentCodeTEntity</value>
+                <value>com.cepi.domain.RegistrationTEntity</value>
+                <value>com.cepi.domain.StudentOrganizationTypeTEntity</value>
+                <value>com.cepi.domain.StudentTEntity</value>
+                <value>com.cepi.domain.TempExamScoreTEntity</value>
+                <value>com.cepi.domain.TestindividualEntity</value>
+                <value>com.cepi.domain.UploadcleanEntity</value>
+                <value>com.cepi.domain.UploadregdateEntity</value>
+                <value>com.cepi.domain.VolunteerActivityListTEntity</value>
+                <value>com.cepi.domain.VolunteerActivityTEntity</value>
+                <value>com.cepi.domain.VolunteerActivityTypeTEntity</value>
+                <value>com.cepi.domain.VolunteerApplicationTEntity</value>
+                <value>com.cepi.domain.VolunteerInterestTEntity</value>
+                <value>com.cepi.domain.VolunteerKnowledgeTEntity</value>
+                <value>com.cepi.domain.VolunteerMaterialSentInfoTEntity</value>
+                <value>com.cepi.domain.VolunteerTEntity</value>
+            </list>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.connection.url">jdbc:mysql://localhost:3306/cepilive</prop>
+                <prop key="hibernate.connection.driver_class">com.mysql.jdbc.Driver</prop>
+            </props>
+        </property>
+    </bean>
+</beans>

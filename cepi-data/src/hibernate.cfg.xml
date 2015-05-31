@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">jdbc:mysql://localhost:3306/cepilive</property>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <mapping class="com.cepi.data.AdministratorTEntity"/>
+        <mapping class="com.cepi.data.CeActivityListTEntity"/>
+        <mapping class="com.cepi.data.CeActivityTEntity"/>
+        <mapping class="com.cepi.data.CeApplicationTEntity"/>
+        <mapping class="com.cepi.data.CepTEntity"/>
+        <mapping class="com.cepi.data.ContactCorrespondenceTEntity"/>
+        <mapping class="com.cepi.data.ContactSourceTEntity"/>
+        <mapping class="com.cepi.data.ContactTEntity"/>
+        <mapping class="com.cepi.data.ContactTypeTEntity"/>
+        <mapping class="com.cepi.data.ExaminationLocationTEntity"/>
+        <mapping class="com.cepi.data.ExaminationTEntity"/>
+        <mapping class="com.cepi.data.IndividualTEntity"/>
+        <mapping class="com.cepi.data.IndividualWorkInfoTEntity"/>
+        <mapping class="com.cepi.data.PaymentCodeTEntity"/>
+        <mapping class="com.cepi.data.RegistrationTEntity"/>
+        <mapping class="com.cepi.data.StudentOrganizationTypeTEntity"/>
+        <mapping class="com.cepi.data.StudentTEntity"/>
+        <mapping class="com.cepi.data.TempExamScoreTEntity"/>
+        <mapping class="com.cepi.data.TestindividualEntity"/>
+        <mapping class="com.cepi.data.UploadcleanEntity"/>
+        <mapping class="com.cepi.data.UploadregdateEntity"/>
+        <mapping class="com.cepi.data.VolunteerActivityListTEntity"/>
+        <mapping class="com.cepi.data.VolunteerActivityTEntity"/>
+        <mapping class="com.cepi.data.VolunteerActivityTypeTEntity"/>
+        <mapping class="com.cepi.data.VolunteerApplicationTEntity"/>
+        <mapping class="com.cepi.data.VolunteerInterestTEntity"/>
+        <mapping class="com.cepi.data.VolunteerKnowledgeTEntity"/>
+        <mapping class="com.cepi.data.VolunteerMaterialSentInfoTEntity"/>
+        <mapping class="com.cepi.data.VolunteerTEntity"/>
+        <!-- DB schema will be updated if needed -->
+        <!-- <property name="hbm2ddl.auto">update</property> -->
+    </session-factory>
+</hibernate-configuration>

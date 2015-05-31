@@ -1,9 +1,6 @@
 package com.cepi.data;
 
-import javax.persistence.Basic;
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 /**
  * Created by ndivadkar on 5/30/15.
@@ -13,7 +10,7 @@ import javax.persistence.Table;
 public class UploadcleanEntity {
     private Integer id;
 
-    @Basic
+    @Id
     @Column(name = "ID")
     public Integer getId() {
         return id;

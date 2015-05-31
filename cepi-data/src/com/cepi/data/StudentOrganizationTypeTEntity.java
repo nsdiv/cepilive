@@ -1,9 +1,6 @@
 package com.cepi.data;
 
-import javax.persistence.Basic;
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 /**
  * Created by ndivadkar on 5/30/15.
@@ -16,7 +13,7 @@ public class StudentOrganizationTypeTEntity {
     private String organizationType;
     private String note;
 
-    @Basic
+    @Id
     @Column(name = "Student_Organization_Type_ID")
     public int getStudentOrganizationTypeId() {
         return studentOrganizationTypeId;
